@@ -1,0 +1,4 @@
+var x, y;
+begin
+	x := 7 * (y + 3;
+end.

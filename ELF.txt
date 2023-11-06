@@ -1,0 +1,6 @@
+const z = 8;
+var x, y;
+begin
+	while x < 3
+	do x := 2 * (1 + x);
+end.

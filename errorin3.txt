@@ -1,0 +1,4 @@
+var x, x;
+begin
+	x := y * 2;
+end.

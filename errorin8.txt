@@ -1,0 +1,4 @@
+const z = 8;
+begin
+	z := 5;
+end.
