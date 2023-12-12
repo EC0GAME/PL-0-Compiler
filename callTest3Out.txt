@@ -1,0 +1,13 @@
+Filename: callTest3.txt
+var f, n;
+procedure fact;
+     var ans1;
+     begin
+          ans1:=3;
+     end.
+begin
+     n:=3;
+     call f;
+     write f
+end.
+Error: call of a constant or variable is meaningless
