@@ -27,4 +27,6 @@ procTest1 - test for no ident after proc declaration
 procTest2 - test for lack of semicolon after proc declaration
 procTest3 - test for using procedure in assignment
 
+error#.txt - test for other, more common errors
+
 No Group, project done alone
