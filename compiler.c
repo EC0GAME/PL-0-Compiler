@@ -1,7 +1,3 @@
-// John Economou
-// COP 3402 Fall 2023
-// 11/22/2023
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
