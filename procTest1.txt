@@ -1,0 +1,11 @@
+var f, n;
+procedure ;
+     var ans1;
+     begin
+          ans1:=3;
+     end.
+begin
+     n:=3;
+     call fact;
+     write f
+end.
